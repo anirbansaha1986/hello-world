@@ -17,10 +17,10 @@
          <label for="mobile" class="col-sm-3 col-form-label"><b>Enter mobile</b></label>
          <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
          <br>
-         <label for="email" class="col-sm-3 col-form-label"><b>Enter Email</b></label>
+         <label for="email" class="col-sm-3 col-form-label"><b>Enter Email (Required)</b></label>
          <input type="text" placeholder="Enter Email" name="email" id="email" required>
          <br>
-         <label for="psw" class="col-sm-3 col-form-label"><b>Password</b></label>
+         <label for="psw" class="col-sm-3 col-form-label"><b>Password(Required)</b></label>
          <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
          <br>
          <label for="psw-repeat" class="col-sm-3 col-form-label"><b>Repeat Password</b></label>
